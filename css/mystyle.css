@@ -2,13 +2,6 @@
   background: linear-gradient(green,cyan);
 }
 
-/*.container {
-    padding-right: 0; /*15px in bootstrap.css*/
-    padding-left: 0;  /*idem*/
-    margin-right: auto;
-    margin-left: auto;
-}*/
-
 .intro-header {
     /*padding-top: 100px;*/
     text-align: center;
@@ -17,7 +10,7 @@
     background-size: cover;
 }
 
-/*h1 {
+h1 {
     padding-top: 200px;
     /*color: #000000;*/
     text-shadow: 2px 2px 4px #000000;
@@ -55,5 +48,5 @@ hr {
 
 .socials {
     padding-bottom: 200px;
-}*/
+}
 
